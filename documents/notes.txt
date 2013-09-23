@@ -1,0 +1,2 @@
+HDFSº‹ππ…Ëº∆
+http://hadoop.apache.org/common/docs/current/cn/hdfs_design.html
